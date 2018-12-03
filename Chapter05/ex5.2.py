@@ -1,4 +1,4 @@
-# Sandeep Sadarangani
+# Sandeep Sadarangani 3/12/18
 # Fermats Theorem check
 
 def check_fermat(a,b,c,n):
